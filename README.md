@@ -1,4 +1,4 @@
-# CS6220FinalProject
+# Effects of COVID-19 prevention measures on everyday life
 
 Data Source: https://www.kaggle.com/roche-data-science-coalition/uncover
 
