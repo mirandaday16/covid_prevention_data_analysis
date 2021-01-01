@@ -1,6 +1,6 @@
 # Effects of COVID-19 prevention measures on everyday life
 
-[![](COVID_video_thumbnail)](https://youtu.be/azbFhwCxtIY)
+[![](COVID_video_thumbnail.png)](https://youtu.be/azbFhwCxtIY)
 
 Data Source: https://www.kaggle.com/roche-data-science-coalition/uncover
 
