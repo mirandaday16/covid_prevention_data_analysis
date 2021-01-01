@@ -1,5 +1,7 @@
 # Effects of COVID-19 prevention measures on everyday life
 
+[![](COVID_video_thumbnail)](https://youtu.be/azbFhwCxtIY)
+
 Data Source: https://www.kaggle.com/roche-data-science-coalition/uncover
 
 Details on Apple Mobility Data:
