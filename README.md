@@ -1,5 +1,4 @@
 # Effects of COVID-19 prevention measures on everyday life
-## Final Project: CS6620 Data Mining Techniques Summer 2020, Northeastern University
 
 Data Source: https://www.kaggle.com/roche-data-science-coalition/uncover
 
